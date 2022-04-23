@@ -20,7 +20,7 @@
   <img align="center" alt="Hugo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Hugo-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Hugo-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="right" alt="Hugo-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/672079626402660362/967443120000233522/unknown.png?width=406&height=406">
+  <img align="right" alt="Hugo-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/672079626402660362/967462454462410782/unknown.png?width=369&height=369">
 </div>
 
   ##
