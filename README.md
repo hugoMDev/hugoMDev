@@ -1,7 +1,7 @@
-### Olá! Eu sou o hugoMDev, estudante de programação java e desenvolvimento de apps nativos!
+### Olá! Eu sou o Hugo Martins, estudante de Analise e Desenvolvimento de Sistema com foco em programação java e desenvolvimento de apps nativos!
 
-- 🔭 Estou a procura do meu primeiro emprego como programador
-- 🌱 Estudo Java e desenvolvimentos de apps nativos
+- 🔭 Estou a procura de uma oportunidade como programador
+- 🌱 Graduando em Analise e Desenvolvimento de Sistema
 - 📫 hugodamasceno1990@gmail.com
 - 😄 Pronouns: ele/dele
 
