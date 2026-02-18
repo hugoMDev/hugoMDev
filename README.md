@@ -4,6 +4,7 @@
 
 
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="display: inline_block"><br>
@@ -29,12 +30,20 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+<br></div> -->
+
+##
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=hugoMDev&style=flat-square&color=123845" /></p> 
+</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/> 
+
+
 
