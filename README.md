@@ -4,8 +4,8 @@
 
 
 <div align="left">
-    <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=hugoMDev&layout=compact&langs_count=16&theme=tokyonight">
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="150em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=hugoMDev&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
