@@ -3,18 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hugo+Martins+Damasceno;I+study+analysis+and+systems+development+at+USJT;Be+Welcome!+🤝)](https://git.io/typing-svg) 
 
 
-<img 
-align="left"
-alt="GitHub Stats"
-height="150"
-style="padding-right: 180px;"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight" />
-
-<img 
-align="left"
-alt="Top languages"
-height="180"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugoMDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=150" />
+<div align="left">
+    <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats-chi-orcin-43.vercel.app/api/top-langs/?username=hugoMDev&layout=compact&langs_count=16&theme=tokyonight">
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
