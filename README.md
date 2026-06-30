@@ -6,7 +6,7 @@
 <img 
 align="left"
 alt="GitHub Stats"
-height="800"
+height="300"
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight" />
 
 <img 
