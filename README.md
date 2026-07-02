@@ -13,7 +13,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugoMDev&sho
 align="left"
 alt="Top languages"
 height="150"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugoMDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugoMDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&langs_count=5" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
