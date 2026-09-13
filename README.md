@@ -11,9 +11,11 @@
 
 </div>
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph-chi-olive.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a8&point=0a855c&area=true&hide_border=true" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
