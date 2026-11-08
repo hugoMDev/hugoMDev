@@ -5,20 +5,15 @@
 
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hugoMDev&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
-  
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hugoMDev&layout=compact&theme=tokyonight&hide_border=true" width="43%" /> 
 <img src="https://github-stats-extended.vercel.app/api?username=hugoMDev&show_icons=true&theme=tokyonight&hide_border=true" width="56.5%" />
 
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph-chi-olive.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a8&point=0a855c&area=true&hide_border=true" width="100%" />
 
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph-chi-olive.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a8&point=0a855c&area=true&hide_border=true" width="100%" />
-
-</div>>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,8 +22,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- ##
-
+##
  <div style="display: inline_block" align="center"><br> 
   <a href="https://www.instagram.com/ihugomart/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href = "hugodamasceno1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,14 +30,25 @@
    <a href="https://www.salesforce.com/trailblazer/hugo-mdamasceno" target="_blank"><img src="https://img.shields.io/badge/-Trailhead-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<!-- 
+cobrinha 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hugoMDev/hugoMDev/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
-<!--
+<!-- 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
