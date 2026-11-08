@@ -12,6 +12,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph-chi-olive.vercel.app/graph?username=hugoMDev&bg_color=000000&color=32CD32&line=07e9a8&point=0a855c&area=true&hide_border=true" width="100%" />
 
+##
 
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -23,6 +24,7 @@
 </div>
 
 ##
+
  <div style="display: inline_block" align="center"><br> 
   <a href="https://www.instagram.com/ihugomart/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href = "hugodamasceno1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
